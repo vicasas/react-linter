@@ -1,0 +1,9 @@
+{
+  "window.zoomLevel": 0,
+  "editor.fontSize": 12,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all"
+}
