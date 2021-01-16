@@ -1,10 +1,16 @@
 # React Linter 🧾💡
 
+Linter recipe using the best tools.
+
 ## About
 
 This project is a quick recipe for building React.js applications using best practices for an incredible development experience.
 
-We use:
+> In the `.vscode` folder we find some basic settings for those who use [Visual Studio Code](https://code.visualstudio.com/) as a text editor. However this recipe is agnostic to the editor.
+
+## Features
+
+🐭 Editorconfig
 
 💡 Eslint
 
@@ -14,8 +20,6 @@ We use:
 
 🔦 Lint-staged
 
-🐭 Editorconfig
-
 ## License
 
-React Linter is [MIT Licensed](./LICENSE) .
+React Linter is [MIT Licensed](./LICENSE).
